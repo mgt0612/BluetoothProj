@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bluetooth</string>
+    <string name="discover_bluetooth_devices">Discover Bluetooth devices</string>
+</resources>
